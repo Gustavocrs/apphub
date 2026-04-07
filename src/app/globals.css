@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --card-bg: #ffffff;
+  --card-border: rgb(228 228 231);
+  --card-border-hover: rgb(161 161 170);
+  --icon-bg: rgb(244 244 245);
+  --badge-bg: rgb(228 228 231);
+  --badge-fg: rgb(39 39 42);
+  --ring: rgb(59 130 246);
 }
 
 @theme inline {
@@ -16,6 +23,13 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --card-bg: rgb(24 24 27);
+    --card-border: rgb(63 63 70);
+    --card-border-hover: rgb(113 113 122);
+    --icon-bg: rgb(39 39 42);
+    --badge-bg: rgb(63 63 70);
+    --badge-fg: rgb(244 244 245);
+    --ring: rgb(96 165 250);
   }
 }
 

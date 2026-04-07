@@ -1,0 +1,24 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="4" y1="2" x2="28" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6F3F22"/>
+      <stop offset="1" stop-color="#C68445"/>
+    </linearGradient>
+    <linearGradient id="steam" x1="16" y1="6" x2="16" y2="12" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7EB"/>
+      <stop offset="1" stop-color="#F2DFC7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="32" height="32" rx="8" fill="url(#bg)"/>
+  <rect x="1" y="1" width="30" height="30" rx="7" stroke="#F7E7D4" stroke-opacity="0.24"/>
+
+  <path d="M12 6.2V8.3" stroke="url(#steam)" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M16 5.4V8.1" stroke="url(#steam)" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M20 6.2V8.3" stroke="url(#steam)" stroke-width="1.8" stroke-linecap="round"/>
+
+  <path d="M9.8 12.4C9.8 11.3 10.7 10.4 11.8 10.4H20.2C21.3 10.4 22.2 11.3 22.2 12.4V15.6C22.2 19 19.4 21.8 16 21.8C12.6 21.8 9.8 19 9.8 15.6V12.4Z" stroke="#FFF8EE" stroke-width="2"/>
+  <path d="M22.2 13.2H23.5C24.7 13.2 25.7 14.2 25.7 15.4C25.7 16.6 24.7 17.6 23.5 17.6H22.2" stroke="#FFF8EE" stroke-width="2" stroke-linecap="round"/>
+  <path d="M11.4 24.2H20.6" stroke="#F3E0C8" stroke-width="1.9" stroke-linecap="round"/>
+  <circle cx="16" cy="16.1" r="1.4" fill="#F6DEC0"/>
+</svg>
